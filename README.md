@@ -1,6 +1,5 @@
 <div align="center">
-  <p>Light Mode</p>
-  <p>Dark Mode</p>
+  <p>Light Mode Dark Mode</p>
 </div>
 
 <div align="center">
